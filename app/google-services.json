@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552269370453",
+    "project_id": "lapor-kos-azhar",
+    "storage_bucket": "lapor-kos-azhar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552269370453:android:6fbb18c7dd2745865430dc",
+        "android_client_info": {
+          "package_name": "com.azhar.reportapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG0L_XsIWAr4zfl9_fOm4l_D6lf0t5OQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
